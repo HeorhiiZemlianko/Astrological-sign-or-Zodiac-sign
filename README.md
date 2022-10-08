@@ -153,5 +153,5 @@ if day >= 1 && day <= 30 {
 ## Result
 Screenshot that displays the result of the entered data
 <p align="center">
-<img  src="https://github.com/HeorhiiZemlianko/Astrological-sign-or-Zodiac-sign/blob/main/task2golang/2.png"  width="350" alt="Astrological-sign-or-Zodiac-sign"/>
+<img  src="https://github.com/HeorhiiZemlianko/Astrological-sign-or-Zodiac-sign/blob/main/task2golang/2.png" alt="Astrological-sign-or-Zodiac-sign"/>
 </p>
